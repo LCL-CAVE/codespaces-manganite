@@ -1,9 +1,0 @@
-﻿Supplier,Price ($/mt),In Union? (0/1),Rail Transport? (0/1),Volatility (%),Capacity (mt/yr)
-Ashley,49500,1,1,0.15,300
-Bedford,50000,1,0,0.16,600
-Consol,61000,0,1,0.18,510
-Dunby,63500,1,0,0.2,655
-Earlam,66500,0,0,0.21,575
-Florence,71000,1,0,0.22,680
-Gaston,72500,0,1,0.23,450
-Hopt,80000,0,1,0.25,490
