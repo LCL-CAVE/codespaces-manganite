@@ -15,7 +15,9 @@
   },
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": [
+        "notebooks/manganite-demo.ipynb"
+      ]
     },
     "vscode": {
       "extensions": [
