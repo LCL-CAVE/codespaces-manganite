@@ -6,7 +6,7 @@
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
-  "postAttachCommand":  "mnn serve notebooks/manganite-demo.ipynb",
+  "postAttachCommand":  "mnn serve --autoreload notebooks/manganite-demo.ipynb",
   "portsAttributes": {
     "5006": {
       "label": "Application",
