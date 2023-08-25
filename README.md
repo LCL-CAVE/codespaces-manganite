@@ -8,7 +8,7 @@ Everything you do here is contained within this one codespace. There is no repos
 To run this application:
 
 ```
-mnn serve [name of your notebook].ipyn
+mnn serve --autoreload [name of your notebook].ipyn
 ```
 
 There is no repository on GitHub yet. While your codespace will remain active for quite a while, Github deletes it after a period of inactivity. Once your codespace is deleted, all your changes are gone forever.  Therefore, if and when you’re ready click "Publish Branch" and Github will create create your repository and push up your project, so that your own changes are stored and saved. 
