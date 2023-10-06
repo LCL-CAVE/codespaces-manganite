@@ -1,0 +1,4 @@
+jupyter
+pandas
+plotly
+https://github.com/daniel-dobos-unilu/codespaces-manganite/raw/main/packages/manganite-0.0.3.tar.gz
