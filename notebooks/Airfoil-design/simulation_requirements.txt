@@ -1,1 +1,0 @@
-aerosandbox == 3.0.0 # TODO fix a version
