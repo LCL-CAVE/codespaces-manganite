@@ -6,18 +6,18 @@
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
-  "postAttachCommand":  "mnn serve --autoreload notebooks/manganite-demo.ipynb",
-  "portsAttributes": {
-    "5006": {
-      "label": "Application",
-      "onAutoForward": "openPreview"
-    }
-  },
+  // "postAttachCommand":  "mnn serve --autoreload notebooks/manganite-demo.ipynb",
+  // "portsAttributes": {
+  //   "5006": {
+  //     "label": "Application",
+  //     "onAutoForward": "openPreview"
+  //   }
+  // },
   "customizations": {
     "codespaces": {
-      "openFiles": [
-        "notebooks/manganite-demo.ipynb"
-      ]
+      // "openFiles": [
+      //   "notebooks/manganite-demo.ipynb"
+      // ]
     },
     "vscode": {
       "extensions": [
