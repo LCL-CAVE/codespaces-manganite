@@ -19,6 +19,6 @@ Welcome to our image gallery! Below are examples of our work.
 
 These examples are hosted on [Hugging Face](https://huggingface.co) for your convenience.
 
-| [![Example 1](pics/widget_demo.png)](https://huggingface.co/spaces/daniel-dobos/widget_demo_manganite) | [![Example 2](pics/portfolio_optimisation.png)](https://huggingface.co/spaces/daniel-dobos/portfolio_optimisation_manganite) |
-| [![Example 3](pics/supplier_sourcing.png)](https://huggingface.co/spaces/daniel-dobos/Supplier_Selection_Dashboard_manganite) | [![Example 4](pics/tsp.png)](https://huggingface.co/spaces/daniel-dobos/Traveling_Salesman_manganite) |
-| [![Example 5](pics/airfoil_analysis.png)](https://huggingface.co/spaces/daniel-dobos/Airfoil_analysi) | [![Example 6](pics/co2_dashboard.png)](https://huggingface.co/spaces/daniel-dobos/CO2_dashboard) |
+| [<img src="pics/widget_demo.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/widget_demo_manganite) | [<img src="pics/portfolio_optimisation.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/portfolio_optimisation_manganite) |
+| [<img src="pics/supplier_sourcing.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/Supplier_Selection_Dashboard_manganite) | [<img src="pics/tsp.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/Traveling_Salesman_manganite) |
+| [<img src="pics/airfoil_analysis.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/Airfoil_analysi) | [<img src="pics/co2_dashboard.png" width="300"/>](https://huggingface.co/spaces/daniel-dobos/CO2_dashboard) |
