@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
   "hostRequirements": {
     "cpus": 4
   },
